@@ -453,12 +453,12 @@ body.home .hero-logo {
   margin-bottom: 28px;
 }
 
-body.home .hero-logo img 
+body.home .hero-logo img {
   width: 220px;          /* adjust if needed */
   max-width: 70%;
   height: auto;
   opacity: 0.95;
-
+}
 body.home .hero-logo img {
   filter: drop-shadow(0 12px 30px rgba(0,0,0,0.08));
 }
